@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4855-5A23
+
+ Directory of C:\Users\Joshith\Desktop\myproject
+
+14-08-2018  16:18    <DIR>          .
+14-08-2018  16:18    <DIR>          ..
+14-08-2018  16:18                 0 durga.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  49,674,911,744 bytes free
